@@ -4,7 +4,7 @@
   <img alt="output" src="images/output.gif" />
  </div>
 
-> This Project uses OpenCV and MediaPipe to Control system volume 
+> Hand gesture PC volume control using OpenCV and MediaPipe detects hand movements through a computer camera. It recognizes hand landmarks and interprets gestures for volume adjustment. The system translates gestures like raising or lowering fingers into volume commands. Users can control volume levels without physical interaction, offering convenience and accessibility. However, its effectiveness depends on accurate gesture recognition and system responsiveness.
 
 ## 💾 REQUIREMENTS
 + opencv-python
