@@ -14,3 +14,5 @@
 + pycaw
 
 ![htm](https://github.com/Purvaxx/Hand-Gesture-PC-Volume-Control/assets/164890993/0977adf1-1f83-4933-b132-84e4eb1eecde)
+![hand_landmarks_docs](https://github.com/Purvaxx/Hand-Gesture-PC-Volume-Control/assets/164890993/e68c1581-8e50-480c-99f3-031db5104e9e)
+
